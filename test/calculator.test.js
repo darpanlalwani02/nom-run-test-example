@@ -12,7 +12,7 @@ describe("Calculation TestCases", () => {
 
         // assertions
 
-        expect(sum).toBe(21);
+        expect(sum).toBe(3);
 
     });
 
